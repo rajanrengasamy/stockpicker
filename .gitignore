@@ -23,3 +23,6 @@ __pycache__/
 *.pyc
 venv/
 .venv/
+
+# Source PDFs (large binary files - not tracked in git)
+sources/
